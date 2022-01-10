@@ -2,10 +2,12 @@
 ## Perceptron Implementation
 ### Commands used
 #### To create any empy file
-```touch filename
+```
+touch filename
 ```
 #### to create environment in the current directory
-```conda create --prefix ./env python = 3.7 -y
+```
+conda create --prefix ./env python = 3.7 -y
 ```
 #### If the above commance does not work please use
 ```
